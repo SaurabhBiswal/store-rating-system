@@ -56,3 +56,7 @@ npm start
 - `GET /api/stores` - Get stores with ratings
 - `POST /api/ratings` - Submit rating
 - `GET /api/stats` - Get dashboard statistics
+  ## Author
+SAURABH BISWAL
+punpunsaurabh2002@gmail.com
+7428126826
