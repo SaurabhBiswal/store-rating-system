@@ -2,10 +2,6 @@
 
 A full-stack web application for rating stores with role-based access control.
 
-## 🌐 Live Demo
-
-- **Frontend**: https://your-app.netlify.app
-- **Backend API**: https://your-backend.onrender.com
 
 ## Features
 
